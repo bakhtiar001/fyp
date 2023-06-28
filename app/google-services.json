@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1022612052485",
+    "project_id": "appscan-diy-crafts",
+    "storage_bucket": "appscan-diy-crafts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022612052485:android:01b8e22c2684cb8877da6c",
+        "android_client_info": {
+          "package_name": "com.example.appscandiycrafts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022612052485-m6mv71jetuh5i8nu2umql9m90b1at8b1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appscandiycrafts",
+            "certificate_hash": "11cdb9270a629b5d165cbb7dc2dd43bec176f8ec"
+          }
+        },
+        {
+          "client_id": "1022612052485-imt41ok2se02unmttdi20tlsq86sjotn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAddCJ6WXVFjItB4qc_ScGSsojKHduR1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022612052485-imt41ok2se02unmttdi20tlsq86sjotn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
